@@ -1,0 +1,8 @@
+
+ 	 
+			 		 
+			 		 
+add  r7,r3
+mov  	#45 	,  		r4
+sub	r2	
+stop	
